@@ -1,5 +1,5 @@
 # CAPTCHABOT
-Design a BOT capable of beating CAPTCHA measures
+Design a BOT capable of beating reCAPTCHA challenges
 
 Setup
 Plan/organize
